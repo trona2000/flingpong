@@ -3,7 +3,7 @@ ruby "2.5.1"
 gem 'rails', '~> 4.1.4'
 
 gem 'pg'
-
+gem 'json', '~> 1.8.1'
 gem 'sass-rails', '~> 4.0.3'
 gem 'jquery-rails'
 gem 'coffee-rails'
